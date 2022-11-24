@@ -1,0 +1,39 @@
+body
+{
+    background-size: fit;
+}
+
+.heading
+{
+    font-family: Rubik Distressed;
+    font-size: 35px;
+    background-color: rgb(65, 7, 7);
+    color: white;
+    box-shadow: 8px 8px 10px white;
+}
+
+.note
+{
+    font-family: Titillium Web;
+    font-size: 15px;
+    font-weight: bold;
+    background: linear-gradient(skyblue, blue, navy);
+    color: white;
+}
+
+#status
+{
+    font-family: Patrick Hand;
+    font-size: 25px;
+    background-color: #FFC300;
+    color: black;
+    font-weight: bold;
+}
+
+canvas
+{
+    margin-top: 250px;
+    margin-bottom: 250px;
+    border: 10px solid whitesmoke;
+    border-radius: 20%;
+}
